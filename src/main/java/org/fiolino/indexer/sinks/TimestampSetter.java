@@ -1,7 +1,3 @@
-/**
- * Copyright (C) 2015 Market Logic Software
- * All rights reserved
- */
 package org.fiolino.indexer.sinks;
 
 import org.apache.solr.common.SolrInputDocument;
